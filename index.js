@@ -1,4 +1,4 @@
-//index of js
+//index of JS
 
 const express = require("express");
 const bodyParser = require("body-parser");
